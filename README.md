@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danil Bashirov</h1>
+<h1 align="center">Hi 👋, I'm Margo Coding</h1>
 <div align="center">
   
 </div>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next JS** and **Nest JS**
 
-- 📫 How to reach me **danilbashirov0@gmail.com**
+- 📫 How to reach me **margocode@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/flofeyka" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="flofeyka" height="30" width="40" /></a>
+<a href="https://t.me/margocode" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="margocode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
